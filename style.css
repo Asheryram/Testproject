@@ -32,10 +32,10 @@ a:hover {
   color: green;
 }
 a:active {
-  color: red;
+  color:yellow;
 }
 a:visited {
-  color: purple;
+  color: burlywood;
 }
 .table {
   display: table; /* Allow the centering to work */
